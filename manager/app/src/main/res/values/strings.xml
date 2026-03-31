@@ -518,8 +518,6 @@
     <string name="susfs_hide_mounts_current_setting">Current setting: %s</string>
     <string name="susfs_hide_mounts_setting_all">Hide for all processes</string>
     <string name="susfs_hide_mounts_setting_non_ksu">Hide only for non-KSU processes</string>
-    <string name="kernel_simple_kernel">Kernel Version Concise Mode</string>
-    <string name="kernel_simple_kernel_summary">Enable or disable the clean mode displayed by the SukiSU kernel version</string>
     <string name="susfs_android_data_path_set">Android Data path has been set to: %s</string>
     <string name="susfs_sdcard_path_set">SD card path has been set to: %s</string>
     <string name="susfs_path_setup_warning">Path setup may not be fully successful, but SUS paths will continue to be added</string>
